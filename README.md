@@ -1,4 +1,9 @@
-![AgentRob](https://m365x94624551-my.sharepoint.com/:v:/g/personal/admin_m365x94624551_onmicrosoft_com/IQBkNsqoEkGFQoxQs0X08GYhAboI-aVOEIOccz1uiGGIFhI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=P9t4pF)
+
+<video controls width="720">
+  <source src="public/scrum-call.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 # AgentRob (Vite)
 
