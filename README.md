@@ -1,5 +1,8 @@
 
-![AgentRob Demo](https://github.com/robrita/standupbot/raw/refs/heads/main/public/scrum-call.mp4)
+<video controls width="100%">
+	<source src="https://github.com/robrita/standupbot/raw/refs/heads/main/public/scrum-call.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
 
 
 # AgentRob (Vite)
