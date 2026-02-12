@@ -1,8 +1,5 @@
 
-<video controls width="720">
-  <source src="public/scrum-call.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="public/scrum-call.mp4" controls width="720"></video>
 
 
 # AgentRob (Vite)
