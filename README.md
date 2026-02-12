@@ -1,5 +1,5 @@
 
-<video src="public/scrum-call.mp4" controls width="720"></video>
+<video src="https://github.com/robrita/standupbot/raw/refs/heads/main/public/scrum-call.mp4" controls width="720"></video>
 
 
 # AgentRob (Vite)
