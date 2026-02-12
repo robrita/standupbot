@@ -1,7 +1,5 @@
 
-https://m365x94624551-my.sharepoint.com/:v:/g/personal/admin_m365x94624551_onmicrosoft_com/IQBkNsqoEkGFQoxQs0X08GYhAboI-aVOEIOccz1uiGGIFhI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E3iIBl
-
-> **Note:** To make the video above work, upload `public/scrum-call.mp4` by dragging it into a GitHub Issue or PR comment in this repo, then replace the URL above with the generated `https://github.com/user-attachments/assets/...` link.
+![AgentRob Demo](https://github.com/robrita/standupbot/raw/refs/heads/main/public/scrum-call.mp4)
 
 
 # AgentRob (Vite)
