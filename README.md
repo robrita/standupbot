@@ -1,9 +1,5 @@
 
-[![AgentRob Demo](https://img.youtube.com/vi/b2fGNHPlUGA/maxresdefault.jpg)](https://www.youtube.com/watch?v=b2fGNHPlUGA)
-
-<video width="720" controls>
-  <source src="https://raw.githubusercontent.com/robrita/standupbot/main/public/scrum-call.mp4" type="video/mp4">
-</video>
+[![AgentRob Demo](./public/banner.png)](https://m365x94624551-my.sharepoint.com/:v:/g/personal/admin_m365x94624551_onmicrosoft_com/IQBkNsqoEkGFQoxQs0X08GYhAboI-aVOEIOccz1uiGGIFhI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nCP6Gm)
 
 # AgentRob (Vite)
 
