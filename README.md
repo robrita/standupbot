@@ -1,8 +1,5 @@
 
-<video controls width="100%">
-	<source src="https://github.com/robrita/standupbot/raw/refs/heads/main/public/scrum-call.mp4" type="video/mp4">
-	Your browser does not support the video tag.
-</video>
+[![AgentRob Demo](https://img.youtube.com/vi/b2fGNHPlUGA/maxresdefault.jpg)](https://www.youtube.com/watch?v=b2fGNHPlUGA)
 
 
 # AgentRob (Vite)
